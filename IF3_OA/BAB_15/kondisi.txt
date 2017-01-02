@@ -1,0 +1,2 @@
+diskon
+if unit >= 5; "Payung Cantik"; "Terima Kasih!"
